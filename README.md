@@ -14,18 +14,29 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ## Procedure :
 
-![imAGE](2.png)
 
+![imAGE](2.png)
 
 
 ## Experiment:
 
+![Screenshot 2025-05-05 160314](https://github.com/user-attachments/assets/474ba3f9-3edf-4dea-bfb9-19aa0731bb4b)
 
- 
 ## Program
+
+```
+Developed by: PRIYA VARSHINI P
+Register no: 212224240119
+```
+
 ![image](https://github.com/ramjan1729/Single-server-infinite-capacity---Markov-Model/assets/103921593/5f1fd58d-5929-4c51-89ea-4cef009e5bad)
 
 ## Output :
 
+![Screenshot 2025-05-05 160237](https://github.com/user-attachments/assets/fc07fe1c-ef52-4892-9dfe-1dce8ec9c308)
+
+
 ## Result :
+
+The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
 
